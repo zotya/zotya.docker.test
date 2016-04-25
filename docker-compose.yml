@@ -1,0 +1,2 @@
+hello:
+  image: zotya.docker.test:dev
